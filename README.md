@@ -1,5 +1,7 @@
 # Diabetes Disease Classification MIU
 
+Diabetes disease classification with preprocessing, PCA feature reduction, and SMOTE-based imbalance handling, along with cross-validation, hyperparameter tuning, and learning-curve analysis. Compares logistic regression, Gaussian Naive Bayes, AdaBoost, Random Forest, SVM, MLP, and XGBoost using cross-validated evaluation. (Task 2 ML)
+
 <p align="center">
 	<a href="Diabetes_Classification.ipynb"><img src="https://img.shields.io/badge/Open%20Notebook-Diabetes_Classification.ipynb-0f766e?style=for-the-badge&logo=jupyter" alt="Open Notebook" /></a>
 	<a href="#project-overview"><img src="https://img.shields.io/badge/Task%202%20ML-Classification-20BEFF?style=for-the-badge" alt="Task 2 ML" /></a>
@@ -7,8 +9,6 @@
 	<a href="#key-highlights"><img src="https://img.shields.io/badge/PCA-Feature%20Reduction-4b5563?style=for-the-badge" alt="PCA" /></a>
 	<a href="#key-highlights"><img src="https://img.shields.io/badge/SMOTE-Imbalance%20Handling-2e7d32?style=for-the-badge" alt="SMOTE" /></a>
 </p>
-
-Diabetes disease classification with preprocessing, PCA feature reduction, and SMOTE-based imbalance handling, along with cross-validation, hyperparameter tuning, and learning-curve analysis. Compares logistic regression, Gaussian Naive Bayes, AdaBoost, Random Forest, SVM, MLP, and XGBoost using cross-validated evaluation. (Task 2 ML)
 
 ## Project Overview
 
